@@ -1,0 +1,7 @@
+*.no
+*.log
+/dist/
+/build/
+/.idea/
+/document/
+node_modules/
